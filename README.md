@@ -10,8 +10,8 @@ RF1: O usuário deve ser capaz de fazer login com sua conta Google via Firebase.
 RF2: Apenas e-mails institucionais da instituição especificada serão aceitos para login.
 
 2.2. Gerenciamento de Salas
-RF3: O usuário autenticado deve ser capaz de criar uma sala de reunião.
-RF4: Os participantes da sala devem poder ingressar por meio de um código ou link de convite gerado pelo anfitrião.
+RF3: O usuário autenticado deve ser capaz de criar uma sala de reunião.  <br/>
+RF4: Os participantes da sala devem poder ingressar por meio de um código ou link de convite gerado pelo anfitrião.  
 RF5: O anfitrião deve ter acesso exclusivo à interface de controle da fila e cronômetro.
 
 2.3. Gerenciamento da Fila
