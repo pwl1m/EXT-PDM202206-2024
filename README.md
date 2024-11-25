@@ -1,7 +1,7 @@
 # EXT-PDM202206-2024
 Projeto de Extensão - UC PDM202206, 2024-2, IFSC Garopaba
 
-# Me inscrevo ✋! Gerenciamento de Filas para Reuniões
+# Gerenciamento de Filas para Reuniões
 
 Este repositório contém o projeto de um aplicativo para gerenciamento de filas em reuniões presenciais, facilitando a organização e o controle do tempo de fala de cada participante.
 
